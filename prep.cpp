@@ -1,8 +1,10 @@
+//This program is written when i prepare for exam
 #include <iostream>
 #include<cstring>
 using namespace std;
 int g = 20; // Global variable declaration:
-int main (){
+int main ()
+{
     int aray1[3]={123,2,3};
 int aray2[3]={163,2,3};
 cout<<strcmp(aray1,aray2);
