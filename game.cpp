@@ -1,3 +1,4 @@
+//this is number guessing game. it will pick one number and you tyr to guess the number.
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
