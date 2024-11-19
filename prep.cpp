@@ -1,4 +1,4 @@
-//This program is written when i prepare for exam
+//This program is written when i prepare for exam.
 #include <iostream>
 #include<cstring>
 using namespace std;
